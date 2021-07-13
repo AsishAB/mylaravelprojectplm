@@ -56,7 +56,7 @@
 //     Pusher.logToConsole = true;
 // var count = 0;
 // var i =0;
-//     var pusher = new Pusher('be850f6784915a1d43b8', {
+//     var pusher = new Pusher('', {
 //       cluster: 'ap2'
 //     });
 
